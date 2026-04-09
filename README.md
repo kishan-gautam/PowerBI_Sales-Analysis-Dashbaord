@@ -1,6 +1,6 @@
 # 📊 Tech Products Sales Dashboard — Power BI
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/kishan-gautam/PowerBI_Sales-Analysis-Dashbaord/blob/main/Sales-Dashboard%20Picture.png)
 
 ---
 
